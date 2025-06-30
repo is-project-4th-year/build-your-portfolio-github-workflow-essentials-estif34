@@ -2,15 +2,15 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Gebremedhin, Estifanos Solomon
+- **Admission Number**: 148905
+- **GitHub Username**: estif34
+- **Email**: estifanos.gebremedhin@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+  [Estifanos' Portfolio website](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-estif34/)
 
 ## 3. Learnings from the Git Crash Program
 
@@ -25,16 +25,46 @@ And how it helped with your personal portfolio project 💻
 
 make it honest—and if it surprised you, even better!
 
-Example format:
+**🧠 What I Thought I'd Learn vs What I Actually Learned**  
+**1. Concept: GitHub Project Boards**
 
-**🧠 What I Thought I'd Learn vs What I Actually Learned**
-**1. Concept: Branching**
+`Expectation 👀`: I thought project boards were just for big tech teams managing massive apps with dozens of people.
 
-`Expectation 👀` : I thought branching was just for developers working on big apps—nothing I’d need for a small project.
+`Reality 😅`: Even a solo dev like me can use the “To Do,” “In Progress,” and “Done” columns to stay organized and focused.
 
-`Reality 😅`: Turns out even solo devs need branches! It helped me avoid breaking my main code while testing new designs.
+`Impact 💡`: I used the board to plan out each section of my personal portfolio—from layout to responsiveness. Helped me avoid bouncing between tasks and actually finish things.
 
-`Impact 💡`: I created a feature branch for my "About Me" section and merged it smoothly into the main branch after testing. Super useful!
+---
+
+**2. Concept: GitHub Milestones**
+
+`Expectation 👀`: I assumed milestones were more for product managers or teams working toward big release deadlines.
+
+`Reality 😅`: Milestones make it easier to break a project into manageable chunks.
+
+`Impact 💡`: I set a milestone for my tasks like building and deploying the site. 
+
+---
+
+**3. Concept: GitHub Issues for Changes & Features**
+
+`Expectation 👀`: I thought issues were only used for bug reporting in open source projects and not for something small like my portfolio.
+
+`Reality 😅`: GitHub Issues are actually perfect for managing feature requests, bugs, and improvements.
+
+`Impact 💡`: I created issues and linked them to commits so I could see what changes fixed what.
+
+---
+
+**4. Concept: Using the GitHub GUI for Commits & PRs**
+
+`Expectation 👀`: I thought everything had to be done through the terminal and that the GUI was just for beginners.
+
+`Reality 😅`: The GitHub GUI is super intuitive and great for quickly creating commits, opening pull requests, and merging.
+
+`Impact 💡`: I used the GUI to open a PR merged once I was happy. It gave me a cleaner workflow than just committing straight to main.
+
+---
 
 ## 4. Screenshots of Key GitHub Features
 
@@ -51,18 +81,19 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 - Screenshot showing your milestone(s) and the issues linked to it.
 
+![alt text](images/issues.png) ![alt text](images/milestones.png)
 ### B. Project Board
 
 - Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
-
+![alt text](images/project_board.png)
 ### C. Branching
 
 - Screenshot showing your branch list with meaningful naming.
-
+![alt text](images/branches.png)
 ### D. Pull Requests
 
 - Screenshot of a pull request that’s either open or merged and linked to a related issue.
-
+![alt text](images/pullRequests.png)
 ### E. Merge Conflict Resolution
 
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
